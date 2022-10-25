@@ -11,3 +11,8 @@
       6. Viewing the history of previous commits or all commits ever made (log)
       7. Listing all staged files, removed files, and branches (status)
       9. Merging changes made in one branch into another (merging)
+
+Blob-Tree-Commit storage system with staging area
+![](/screenshots/1.png)
+![](/screenshots/2.png)
+![](/screenshots/3.png)
