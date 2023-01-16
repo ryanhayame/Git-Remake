@@ -22,7 +22,7 @@ Java
 ## Challenges and Lessons Learned:
 - Experimented with many different types of data structures to ensure optimal storage and retrieval of data
 - Spent a lot of time learning the complexities of Git, as well as how it works internally
-- Worked with data persistence and serialization for the first time
+- Worked with data persistence and data serialization/deserialization for the first time
 - Learned how to optimally traverse and search for data within various data structures
 
 ## How to Run:
